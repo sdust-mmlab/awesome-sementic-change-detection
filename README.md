@@ -16,7 +16,7 @@
 
 - [Asymmetric siamese networks for semantic change detection in aerial images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555824&tag=1),IEEE Transactions on Geoscience and Remote Sensing 2021
 
-- [SCDNET: A novel convolutional network for semantic change detection in high resolution optical remote sensing imagery](https://www.sciencedirect.com/science/article/pii/S0303243421001720),International Journal of Applied Earth Observation and Geoinformation 2021[[code]](https://github.com/daifeng2016/ Semantic-Change-Detection)
+- [SCDNET: A novel convolutional network for semantic change detection in high resolution optical remote sensing imagery](https://www.sciencedirect.com/science/article/pii/S0303243421001720),International Journal of Applied Earth Observation and Geoinformation 2021[[code]](https://github.com/daifeng2016/Semantic-Change-Detection)
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
 
