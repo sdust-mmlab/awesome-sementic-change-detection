@@ -14,7 +14,7 @@
 
 - [Multitask learning for large-scale semantic change detection](https://www.sciencedirect.com/science/article/pii/S1077314219300992), Computer Vision and Image Understanding 2019
 
-- [Asymmetric siamese networks for semantic change detection in aerial images]([url](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555824&tag=1)), IEEE Transactions on Geoscience and Remote Sensing, 2021,
+- [Asymmetric siamese networks for semantic change detection in aerial images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555824&tag=1), IEEE Transactions on Geoscience and Remote Sensing, 2021,
 
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
