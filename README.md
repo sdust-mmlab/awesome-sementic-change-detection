@@ -14,8 +14,9 @@
 
 - [Multitask learning for large-scale semantic change detection](https://www.sciencedirect.com/science/article/pii/S1077314219300992), Computer Vision and Image Understanding 2019
 
-- [Asymmetric siamese networks for semantic change detection in aerial images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555824&tag=1), IEEE Transactions on Geoscience and Remote Sensing, 2021,
+- [Asymmetric siamese networks for semantic change detection in aerial images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555824&tag=1), IEEE Transactions on Geoscience and Remote Sensing 2021
 
+- [SCDNET: A novel convolutional network for semantic change detection in high resolution optical remote sensing imagery](url)International Journal of Applied Earth Observation and Geoinformation 2021[[code]](url)
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
 
