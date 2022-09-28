@@ -22,7 +22,7 @@
 
 - [Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images](https://arxiv.org/pdf/2108.06103.pdf), IEEE Transactions on Geoscience and Remote Sensing 2022 [[code]](https://github.com/ggsDing/Bi-SRNet)
 
-- [ChangeMask: Deep multi-task encoder-transformer-decoder architecture for semantic change detection (https://www.researchgate.net/publication/356591098_ChangeMask_Deep_multi-task_encoder-transformer-decoder_architecture_for_semantic_change_detection), ISPRS Journal of Photogrammetry and Remote Sensing, 2022
+- [ChangeMask: Deep multi-task encoder-transformer-decoder architecture for semantic change detection] (https://www.researchgate.net/publication/356591098_ChangeMask_Deep_multi-task_encoder-transformer-decoder_architecture_for_semantic_change_detection), ISPRS Journal of Photogrammetry and Remote Sensing, 2022
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
 
