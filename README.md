@@ -23,6 +23,10 @@
 - [Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images](https://arxiv.org/pdf/2108.06103.pdf), IEEE Transactions on Geoscience and Remote Sensing 2022 [[code]](https://github.com/ggsDing/Bi-SRNet)
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
+- 
+- - [paper_2](url), IEEE TGRS 2020 [[code]](url)
+- 
+- - [paper_2](url), IEEE TGRS 2020 [[code]](url)
 ## 3. other
 - 
 
