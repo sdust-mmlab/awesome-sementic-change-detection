@@ -18,9 +18,9 @@
 
 - [SCDNET: A novel convolutional network for semantic change detection in high resolution optical remote sensing imagery](https://www.sciencedirect.com/science/article/pii/S0303243421001720),International Journal of Applied Earth Observation and Geoinformation 2021[[code]](https://github.com/daifeng2016/Semantic-Change-Detection)
 
-- [paper_2](url), IEEE TGRS 2020 [[code]](url)
+- [Spatially and Semantically Enhanced Siamese Network for Semantic Change Detection in High-Resolution Remote Sensing Images](url), IEEE TGRS 2020 [[code]](url)
 
-- [paper_2](url), IEEE TGRS 2020 [[code]](url)
+- [Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images](https://arxiv.org/pdf/2108.06103.pdf), IEEE Transactions on Geoscience and Remote Sensing 2022 [[code]](url)
 
 - [paper_2](url), IEEE TGRS 2020 [[code]](url)
 ## 3. other
