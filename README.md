@@ -24,9 +24,6 @@
 
 - [ChangeMask: Deep multi-task encoder-transformer-decoder architecture  for semantic change detection ](https://www.researchgate.net/publication/356591098_ChangeMask_Deep_multi-task_encoder-transformer-decoder_architecture_for_semantic_change_detection), ISPRS Journal of Photogrammetry and Remote Sensing, 2022
 
-- [paper_2](url), IEEE TGRS 2020 [[code]](url)
-
-- [paper_2](url), IEEE TGRS 2020 [[code]](url)
 ## 3. other
 - 
 
