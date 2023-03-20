@@ -27,6 +27,12 @@
 
 - [ChangeMask: Deep multi-task encoder-transformer-decoder architecture  for semantic change detection ](https://www.researchgate.net/publication/356591098_ChangeMask_Deep_multi-task_encoder-transformer-decoder_architecture_for_semantic_change_detection), ISPRS Journal of Photogrammetry and Remote Sensing, 2022
 
+- [SMNet: Symmetric Multi-T ask Network for Semantic Change Detection in Remote Sensing Images Based on CNN and T ransformer](), , 
+
+- [Dual-T ask Semantic Change Detection for Remote Sensing Images Using the Generative Change Field Module](), , 
+
+- [Large-scale deep learning based binary and semantic change detection in ultra high resolution remote sensing imagery: From benchmark datasets to urban application](), , 
+
 ## 3. other
 - 
 
