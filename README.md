@@ -12,7 +12,7 @@
 
 - [BANDON](https://github.com/fitzpchao/BANDON) | [paper](https://arxiv.org/abs/2301.10922)
 
-- [Landsat]([https://github.com/fitzpchao/BANDON](https://figshare.com/articles/figure/Landsat-SCD_dataset_zip/19946135/1)) | [paper]([https://arxiv.org/abs/2301.10922](https://www.tandfonline.com/doi/full/10.1080/17538947.2022.2111470))
+- [Landsat](https://github.com/fitzpchao/BANDON](https://figshare.com/articles/figure/Landsat-SCD_dataset_zip/19946135/1) | [paper]([https://arxiv.org/abs/2301.10922](https://www.tandfonline.com/doi/full/10.1080/17538947.2022.2111470))
 
 
 
