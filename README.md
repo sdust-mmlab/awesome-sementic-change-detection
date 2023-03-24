@@ -17,6 +17,7 @@
 Landsat SCD数据集由8468对图像组成，每个图像的固定大小为416×416像素，分辨率为30m。该数据集涉及一个无变化类别和四个土地覆盖类别，包括农田、沙漠、建筑物和水。
 
 
+- [Guangzhou dataset](https://pan.baidu.com/s/1pmQWdHjeYzgaFsCeVfbbhA)【hn8p】 |  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9187552)
 
 
 
