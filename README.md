@@ -46,7 +46,7 @@ Landsat SCD数据集由8468对图像组成，每个图像的固定大小为416×
 
 - [Feature Guided Multitask Change Detection Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9928215), Remote Sens, 2022
 
-- [](), 
+- [A Deep Siamese Postclassification Fusion Network for Semantic Change Detection](https://ieeexplore.ieee.org/abstract/document/9764686/), IEEE Transactions on Geoscience and Remote Sensing, 2022
 
 - [](), 
 
