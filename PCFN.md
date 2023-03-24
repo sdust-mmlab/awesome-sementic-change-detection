@@ -10,7 +10,7 @@ PCFN分别由用于土地覆盖图（LCM）的孪生分类网络（SCN）和用�
 
 传统的二值变化检测仅进行变化区域的检测，而忽略了检测目标的语义，但实际生活中，检测语义至关重要。
 
-[paper1][https://www.sciencedirect.com/science/article/pii/S0924271606001122]
+[paper1](https://www.sciencedirect.com/science/article/pii/S0924271606001122)
 - 相关工作总结
 
 传统二值变化检测：
