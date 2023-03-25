@@ -4,4 +4,10 @@
 
 实验部分：Bi-SRNet中训的结果并不是很高
 
+second: 
+
 miou:71.95 sek：20.29 score:35.79
+
+landsat:
+
+miou:85.65 sek：51.14 score:61.49 
