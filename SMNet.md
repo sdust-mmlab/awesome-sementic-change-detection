@@ -17,3 +17,5 @@ miou:71.95 sek：20.29 score:35.79
 landsat:
 
 miou:85.65 sek：51.14 score:61.49 
+
+未说明划分比例
