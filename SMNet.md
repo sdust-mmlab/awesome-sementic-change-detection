@@ -1,3 +1,5 @@
+# SMNet: Symmetric Multi-T ask Network for Semantic Change Detection in Remote Sensing Images Based on CNN and T ransformer
+
 提出了一种基于CNN和Transformer的方法
 
 首先，为了从双时遥感图像中提取局部和全局信息，建立了由PR和TB组成的混合PRTB骨干，该骨干提取不同的层次特征。然后，使用一种新的多内容融合模块（MCFM）来增强通过减去提取的相应层次特征而获得的变化相关特征。主要由三部分组成：多尺度特征提取编码器、多内容融合增强和多任务预测解码器。
