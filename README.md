@@ -39,7 +39,7 @@ Landsat SCD数据集由8468对图像组成，每个图像的固定大小为416×
 
 - [Dual-T ask Semantic Change Detection for Remote Sensing Images Using the Generative Change Field Module](https://www.mdpi.com/2072-4292/13/16/3336), Remote Sensing, 2021 
 
-- [Large-scale deep learning based binary and semantic change detection in ultra high resolution remote sensing imagery: From benchmark datasets to urban application](https://www.sciencedirect.com/science/article/pii/S0924271622002210),  ISPRS Journal of Photogrammetry and Remote Sensing, 2022
+- [Large-scale deep learning based binary and semantic change detection in ultra high resolution remote sensing imagery: From benchmark datasets to urban application](https://www.sciencedirect.com/science/article/pii/S0924271622002210),  ISPRS Journal of Photogrammetry and Remote Sensing, 2022  提出Hi-UCD数据集，但未公开
 
 - [A transformer-based Siamese network and an open optical dataset for semantic change detection of remote sensing images](https://www.tandfonline.com/doi/full/10.1080/17538947.2022.2111470),International Journal of Digital Earth, 2022
 
