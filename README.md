@@ -58,6 +58,6 @@ Landsat SCD数据集由8468对图像组成，每个图像的固定大小为416×
 - [](), 
 
 
-## 3. other
+## 3. other conference Papers
 - [A Siamese Global Learning Framework for Multi-Class Change Detection](https://ieeexplore.ieee.org/abstract/document/9553754/), IEEE International Geoscience and Remote Sensing Symposium IGARSS. IEEE, 2021
 
