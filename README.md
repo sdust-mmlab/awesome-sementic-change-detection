@@ -51,7 +51,7 @@ Landsat SCD数据集由8468对图像组成，每个图像的固定大小为416×
 
 - [Learning spectral-spatial-temporal features via a recurrent convolutional neural network for change detection in multispectral imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8541102), Transactions on Geoscience and Remote Sensing, 2018
 
-- [](), 
+- [MTSCD-Net: A network based on multi-task learning for semantic change  detection of bitemporal remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843223001164), International Journal of Applied Earth Observation and Geoinformation, 2023
 
 - [](), 
 
